@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\SONY\Desktop\Lesson\Praktika\Praktika\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

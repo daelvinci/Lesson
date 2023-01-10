@@ -38,7 +38,7 @@ namespace Praktika
             Console.WriteLine(dayobj+"-"+(byte)dayobj);
 
             byte dayNum = 192;
-            Enum.TryParse(typeof(WeekDays), dayNum, out dayobj);
+            //Enum.TryParse(typeof(WeekDays), out dayobj);
             var dayvar = (WeekDays)dayNum;
             Console.WriteLine(dayvar);
 

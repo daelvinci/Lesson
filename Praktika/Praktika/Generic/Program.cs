@@ -23,8 +23,17 @@ namespace Generic
             sira.Enqueue('d');
             sira.Enqueue("d");
             sira.Dequeue();
-            sira.Peek();
+            Console.WriteLine(sira.Peek());
 
+
+            Stack stack = new Stack();
+
+
+            stack.Push('A');
+            stack.Push("dd");
+            stack.Push(233);
+            stack.Pop();
+            Console.WriteLine(stack.Peek()); 
 
         }
     }
